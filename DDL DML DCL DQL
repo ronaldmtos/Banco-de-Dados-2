@@ -1,0 +1,32 @@
+DDL (Data Definition Language):
+
+CREATE: Comandos DDL são usados para criar objetos de banco de dados, como tabelas, índices, visões, procedimentos armazenados e muito mais.
+
+ALTER: Permite modificar a estrutura de objetos de banco de dados existentes, como adicionar, modificar ou excluir colunas de uma tabela.
+
+DROP: É usado para excluir objetos de banco de dados, como tabelas, índices ou visões.
+
+
+
+DML (Data Manipulation Language):
+
+INSERT: Adiciona novos registros a uma tabela.
+
+UPDATE: Atualiza os registros existentes em uma tabela com novos valores.
+
+DELETE: Remove registros de uma tabela com base em condições especificadas.
+
+
+
+DCL (Data Control Language):
+
+GRANT: Concede permissões a usuários ou funções no banco de dados.
+
+REVOKE: Revoga permissões previamente concedidas a usuários ou funções.
+
+
+
+DQL (Data Query Language):
+
+SELECT: Recupera dados de tabelas ou visualizações no banco de dados. Este comando permite especificar colunas 
+desejadas, condições de filtro e critérios de ordenação para buscar dados específicos.
